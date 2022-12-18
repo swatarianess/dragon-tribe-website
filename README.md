@@ -1,6 +1,6 @@
 Dragon Tribe website.
 
-https://user-images.githubusercontent.com/1682734/208313468-9194a91f-c74e-46bb-8222-ab3bbfb09af6.mp4
+https://user-images.githubusercontent.com/1682734/208313677-0ed8b5a7-a683-4ff7-89d9-7e91d309a215.mp4
 
 ---
 
