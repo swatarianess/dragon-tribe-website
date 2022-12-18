@@ -1,16 +1,19 @@
 import React from 'react';
-import logo from './logo.svg';
+import logo from './assets/image1.png';
+// @ts-ignore
+import videobg from "./assets/background_video.mp4";
 import './App.css';
+
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-      </header>
+        <div className='content'>
+            <img src={logo} className="App-logo" alt="logo"/>
+            <h1>Dragon Tribe</h1>
+            <p>Join the Dragon tribe and ignite your path to greatness</p>
+        </div>
+        <video src={videobg} autoPlay loop muted />
     </div>
   );
 }
